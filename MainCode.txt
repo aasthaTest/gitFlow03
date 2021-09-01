@@ -5,3 +5,8 @@ Fruits name:
 Apple 
 Grapes 
 Orange 
+
+Vegetable name:
+Okra
+Cabbage
+Cauliflower
